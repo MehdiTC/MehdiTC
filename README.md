@@ -55,11 +55,15 @@ ECE + CS @ Duke | Math Minor | Full Stack Software Developer | Startup Builder |
 
 **Analytics & Monitoring:**  
 ![PostHog](https://img.shields.io/badge/-PostHog-F54E00?style=flat&logo=posthog&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 **Deployment & Dev Tools:**  
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
 ---
 
 ## 🔗 Find Me
