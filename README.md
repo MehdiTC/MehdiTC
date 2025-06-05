@@ -5,7 +5,6 @@ ECE + CS @ Duke | Math Minor | Full Stack Software Developer | Startup Builder |
 ---
 
 ## 💻 Projects
-## 💻 Projects
 
 - 🎓 [Alumni Directory for Duke DSP](https://github.com/MehdiTC/dsp-alumni-directory)  
   Full-stack alumni directory using Supabase + Next.js. Live at [dukedsp.com](https://dukedsp.com).
