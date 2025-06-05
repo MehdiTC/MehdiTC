@@ -6,35 +6,25 @@ ECE + CS @ Duke | Math Minor | Full Stack Software Developer | Startup Builder |
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
+### 🧠 Languages & Frameworks  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Frameworks & Libraries:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
-**Backend & Database:**  
+### 🔧 Backend, Auth & Data  
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
+![Supabase Auth](https://img.shields.io/badge/-Supabase%20Auth-3ECF8E?style=flat&logo=supabase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-**Authentication:**  
-![Supabase Auth](https://img.shields.io/badge/-Supabase%20Auth-3ECF8E?style=flat&logo=supabase&logoColor=black)
-
-**Analytics & Monitoring:**  
+### 🚀 DevOps, Analytics & Tooling  
 ![PostHog](https://img.shields.io/badge/-PostHog-F54E00?style=flat&logo=posthog&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
-**Deployment & Dev Tools:**  
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
 ---
 
 ## 💻 Projects
