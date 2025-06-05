@@ -4,35 +4,6 @@ ECE + CS @ Duke | Math Minor | Full Stack Software Developer | Startup Builder |
 
 ---
 
-## 💻 Projects
-
-- 🎓 [Alumni Directory for Duke DSP](https://github.com/MehdiTC/dsp-alumni-directory)  
-  Full-stack alumni directory using Supabase + Next.js. Live at [dukedsp.com](https://dukedsp.com).
-
-- 🧠 [Alumna.in - SaaS Marketing Site](https://github.com/MehdiTC/alumna-in-marketing-site)  
-  Landing page to onboard student orgs into the alumni directory platform. Live at [alumna.in](https://alumna.in).
-
-- 🧰 SaaS Template Generator  
-  A modular Supabase + Next.js repo to auto-spin alumni directories per org. Built for scalability and onboarding automation.
-
-- 🌐 Personal Website  
-  A fully redesigned personal portfolio built from scratch, featuring projects, blog posts, and experiments in AI, automation, and design.
-
-- 📡 IG Influencer API Tool (Internal / Private)  
-  Python-based tool to scrape Instagram data and estimate influencer $/view using engagement metrics and profile heuristics. Built for an MVP social media agency.
-
-- 🛰 ISS Orbit Simulation (Archived on GitLab)  
-  Simulated the deorbit maneuver of the International Space Station using physics models and orbital mechanics. Led safety and simulation sections.
-
-- 🚀 3Point Ventures Launchpad Site  
-  Founded a Duke-based accelerator community for student founders. Built site to showcase program vision, recruit founders, and promote events.
-
----
-
-> More in progress — always building, testing, and shipping.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:**  
@@ -63,6 +34,35 @@ ECE + CS @ Duke | Math Minor | Full Stack Software Developer | Startup Builder |
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+## 💻 Projects
+
+- 🎓 [Alumni Directory for Duke DSP](https://github.com/MehdiTC/dsp-alumni-directory)  
+  Full-stack alumni directory using Supabase + Next.js. Live at [dukedsp.com](https://dukedsp.com).
+
+- 🧠 [Alumna.in - SaaS Marketing Site](https://github.com/MehdiTC/alumna-in-marketing-site)  
+  Landing page to onboard student orgs into the alumni directory platform. Live at [alumna.in](https://alumna.in).
+
+- 🧰 SaaS Template Generator  
+  A modular Supabase + Next.js repo to auto-spin alumni directories per org. Built for scalability and onboarding automation.
+
+- 🌐 Personal Website  
+  A fully redesigned personal portfolio built from scratch, featuring projects, blog posts, and experiments in AI, automation, and design.
+
+- 📡 IG Influencer API Tool (Internal / Private)  
+  Python-based tool to scrape Instagram data and estimate influencer $/view using engagement metrics and profile heuristics. Built for an MVP social media agency.
+
+- 🛰 ISS Orbit Simulation (Archived on GitLab)  
+  Simulated the deorbit maneuver of the International Space Station using physics models and orbital mechanics. Led safety and simulation sections.
+
+- 🚀 3Point Ventures Launchpad Site  
+  Founded a Duke-based accelerator community for student founders. Built site to showcase program vision, recruit founders, and promote events.
+
+---
+
+> More in progress — always building, testing, and shipping.
 
 ---
 
