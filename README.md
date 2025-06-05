@@ -51,8 +51,7 @@ ECE + CS @ Duke | Math Minor | Full Stack Software Developer | Startup Builder |
   Founded a Duke-based accelerator community for student founders. Built site to showcase program vision, recruit founders, and promote events.
 
 ---
-
-> More in progress — always building, testing, and shipping.
+More in progress — always building, testing, and shipping.
 
 ---
 
@@ -63,5 +62,4 @@ ECE + CS @ Duke | Math Minor | Full Stack Software Developer | Startup Builder |
 - [Alumna.in](https://alumna.in)
 
 ---
-
-> Always down to build something new. Let’s connect.
+Always down to build something new. Let’s connect.
