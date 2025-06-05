@@ -1,4 +1,4 @@
-# I’m Mehdi Touhami
+# Hey, I’m Mehdi!
 
 ECE + CS @ Duke | Math Minor | Full Stack Software Developer | Startup Builder | SaaS and ML Focused
 
