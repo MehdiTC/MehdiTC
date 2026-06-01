@@ -9,7 +9,7 @@ currently:
 - building out a probabilistic chess rating system — Elo → Glicko → Ornstein-Uhlenbeck on 100M Lichess games
 - reproduced DeepLOB in PyTorch, built the backtest, learned that short-horizon edge is hard
 
-stack i actually use: Python, PyTorch, NumPy, scikit-learn, XGBoost
+stack: Python, PyTorch, NumPy, scikit-learn...
 
 ---
 
