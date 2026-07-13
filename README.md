@@ -1,17 +1,12 @@
 # Mehdi Touhami Chahdi
 
-ECE + CS + Math @ Duke 
+Electrical and Computer Engineering, Computer Science, Mathematics @ Duke 
 
 Deep Learning Researcher - Duke Pfister Lab 
 
 ---
 
-Currently:
-- researching transformer quantization at Pfister lab (perturbation theory, mixed-precision allocation)
-- building out a probabilistic chess rating system — Elo → Glicko → Ornstein-Uhlenbeck on 100M Lichess games
-- reproduced DeepLOB in PyTorch, built the backtest, learned that short-horizon edge is hard
-
-Stack: Python, PyTorch, NumPy, scikit-learn...
+Currently researching transformer quantization at Pfister lab (perturbation theory, mixed-precision allocation)
 
 ---
 
